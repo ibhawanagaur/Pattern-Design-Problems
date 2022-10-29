@@ -1,4 +1,4 @@
-# Pattern-Design-Problems
+# Pattern Design Problems
 ### Patterns are a handy application of loops and will provide better clarity and understanding of the implementation of loops.
 Before printing any pattern, we must consider the following three things:
 
