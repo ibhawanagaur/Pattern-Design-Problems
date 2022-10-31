@@ -9,6 +9,8 @@ Pattern for N = 4
 *12321*
 *121*
 *1*
+*
+
 
 */
 package Patterns;
