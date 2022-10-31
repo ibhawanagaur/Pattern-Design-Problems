@@ -1,3 +1,12 @@
+/*
+Print the following pattern for the given N number of rows.
+Pattern for N = 4
+1
+21
+321
+4321
+
+*/
 package Patterns;
 import java.util.Scanner;
 public class ReverseNumberPattern {
