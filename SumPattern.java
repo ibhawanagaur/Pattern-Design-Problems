@@ -1,3 +1,11 @@
+/*
+Print the following pattern for the given N number of rows.
+Pattern for N = 4
+1=1
+1+2=3
+1+2+3=6
+1+2+3+4=10
+*/
 package Patterns;
 import java.util.Scanner;
 public class SumPattern {
